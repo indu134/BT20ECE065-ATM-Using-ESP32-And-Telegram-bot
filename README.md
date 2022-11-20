@@ -9,5 +9,7 @@ note :- Please change wifi SSID and PASSWORD in Arduino code file  to your SSID 
 
 goole sheet link :- https://docs.google.com/spreadsheets/d/1ej2JOQBrGr6V8ubqCU0aCFUDvE-1rRQR3Prjf-IvxNM/edit?usp=sharing  ( for seeing data  purpose)
 
+Telegram Bot link :- http://t.me/BT20ECE065_BOT  (for sending data to esp32)
+
 
 
