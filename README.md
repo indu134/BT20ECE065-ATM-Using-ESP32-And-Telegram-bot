@@ -4,4 +4,4 @@ This  is a part of evaluation for Embedded Systems course instructed by Ankit A.
 
 i am uploding Arduino code file and google app script
 
-
+note :- Please change wifi SSID and PASSWORD in Arduino code file  to your SSID and PASSWORD before running
