@@ -1,9 +1,6 @@
 # BT20ECE065-ATM-Using-ESP32-And-Telegram-bot
 
 
-my name is MIRIYALA INDU VARDHAN  and Roll number BT20ECE065.
-
-This  is a part of evaluation for Embedded Systems course instructed by Ankit A. Bhurane and Amit Agarwal
 
 i have uploded Arduino code file to this repository.
 
